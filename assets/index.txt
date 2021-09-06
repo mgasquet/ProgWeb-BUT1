@@ -1,133 +1,111 @@
 <!--positionner les balises doctype, html ici -->
 
-  <!-- Ouvrir la balise head ici -->
+	<!-- Ouvrir la balise head ici -->
 
-    <!-- Mettre un titre au document ici -->
+		<!-- Mettre un titre au document ici -->
 
-  <!-- Fermer la balise head ici -->
+	<!-- Fermer la balise head ici -->
 
-<!-- ouvrir la balise body ici -->
+	<!-- ouvrir la balise body ici -->
 
-
-	<!-- utiliser blockquote ici  -->
-	
-		"Little John: Braddock ! Je vous préviens, attention où vous mettez les pieds !
-		 Braddock : Je mets les pieds où je veux, Little John… et c'est souvent dans la gueule."
+		<!-- utiliser blockquote ici  -->
 		
-		Chuck Norris, Portés disparus 3 (1988), écrit par Arthur Silver, Larry Levinson, James Bruner, Chuck Norris, Steve Bing
-	
-
-	<!--section -->
-	Biographie (From Wikipedia)
-
-
-<!--sous section -->
-	L'enfance
-
-	<!--l'image de Chuck Young doit être positionnée ici  -->
-
-
-	<!--début paragraphe -->
-	Carlos Ray Norris, plus connu en tant que Chuck Norris, est un acteur américain né le 10 mars 1940 à Ryan (Oklahoma). Spécialiste en arts martiaux, il s'est essentiellement consacré au cinéma d'action. Natif de Ryan dans l'Oklahoma, Carlos Ray Norris
-		a deux frères cadets dont l'un est le producteur hollywoodien Aaron Norris. Ses parents sont de souche amérindienne (cherokee) et irlandaise. Ses parents divorcent alors qu'il a 16 ans et il déménage en Californie avec sa mère et ses frères. C'est là
-		qu'il finit ses études au lycée et se marie rapidement avec sa petite amie, Diane Holechek.
+		<!--début paragraphe -->
+		"Et puis de toute façon je fais qu'est ce que je veux, 10 milliards de points pour Nintendor!!!"
 		<!--fin paragraphe -->
 
-	<!--sous section -->
-	 L'armée
-
-<!--début paragraphe -->
-	
-		Après son mariage, il rejoint l'US Air Force et est envoyé faire son service militaire à la base d'Osan, en Corée du Sud. C'est là qu'il acquiert le surnom de Chuck et qu'il commence à apprendre le Tangsudo. Il retourne ensuite aux États-Unis,
-		dans la base de March, en Californie. Il termine ses services à l'armée en août 1962 sans avoir pris part à un autre combat que les entraînements de la base. 
-<!--fin paragraphe -->
-	
-
-<!--sous section -->
-	Les sports de combats
-
-
-	<!--début paragraphe -->
-	 À son retour, il travaille pour la société Northrop Grumman et ouvre une école de Karaté fréquentée par de nombreuses célébrités, dont Steve McQueen. Son fils Mike naît en 1963 suivi par sa fille Dina en 1964 et d'un second fils, Eric, en 1965.
-	
-	Le palmarès de Chuck est impressionnant :
-	<!--fin paragraphe -->
-
-				<!--liste  -->
-
-				Il possède une ceinture noire en Tangsudo et en Taekwondo,
+		Albus Humblebundledore, Joueur du grenier - HARRY POTTER, 2018
 		
-				il est le fondateur du Chun Kuk Do (La voie universelle).
+
+		<!--section -->
+		L'école de sorcellerie Georges Pompidou
+
+		<!--l'image de l'école doit être positionnée ici  -->
+
+		<!--sous section -->
+		Présentation
+
+		<!--l'image de Humblebundledore doit être positionnée ici  -->
 		
-				Il a également pratiqué le Karaté(7 fois champion du monde des poids moyens de 1968 à 1974)
-		
-				il a aussi fait du Judo et du Ju-jitsu
-	
-		
-<!--sous section -->
-Le cinéma
 		<!--début paragraphe -->
-			L'année 1964 marque un tournant dans la vie de Chuck Norris quand il rencontre Bruce
+		L'école de sorcellerie Georges Pompidou est une école de magie française dirigée par le sorcier Albus Humblebundledore. Elle vise à former les différents élèves dotés de pouvoir magiques. Malheureusement, aujourd'hui l'école est considérée comme la plus mauvaise de toute la Bretagne, à cause d'un taux d'échec très élévé.
+		Plusieurs rumeurs expliquent ce taux d'échec par l'incompétence et les abus de certains professeurs, notamment du directeur Humblebundledore qui favoriserait certains élèves. La direction de l'école n'a pas souhaité faire de commentaires à ce sujet.
+		<!--fin paragraphe -->
 
-			<!--l'image de Chuck Beware ici   -->
+		<!--sous section -->
+		Architecture
+
+		<!--début paragraphe -->
+		L'école se trouve dans un grand château médiéval. L'enceinte principale se compose d'une grande cour dans laquelle les élèves se réunissent pour pratiquer la magie. A l'intérieur, on trouve une grande salle des banquets. Enfin, on retrouve les dortoirs des élèves et les salles de classes, répartis selon les maisons des élèves.
+		<!--fin paragraphe -->
+		
+
+		<!--sous section -->
+		Les différentes maisons
+
+		<!--Les logos (images) de chaque maison doivent être positionnés ici (4 balises)-->
+
+		<!--début paragraphe -->
+		L'école Georges Pompidou est divisée en 5 maisons. Au début de l'année, les élèves de 1ère année sont repartis dans ces maisons. Comme le disait le professeur Humblebundledore, pour les élèves, ces maisons sont comme une seconde...maison (décidemment, ce professeur est un grand sage).
+		
+		Les 5 maisons sont les suivantes :
+		<!--fin paragraphe -->
+			<!--liste  -->
+			Nintendor
 			
-
-			Lee. Malgré une amitié affichée entre les deux hommes, il semble cependant que leurs relations ont été parfois tumultueuses. En 1968, Norris devient champion de Karaté dans la catégorie poids moyen, et en 1969, il remporte la triple couronne en Karaté
-			pour le record des tournois remportés dans l'année, et le titre de combattant de l'année par le Black Belt Magazine. C'est en 1968 qu'il débute au cinéma, dans The Wrecking Crew. En 1970, son plus jeune frère Weiland meurt au Viêt Nam : Chuck lui dédiera
-			plus tard son film Portés disparus. En 1972, il joue avec Bruce Lee dans 
-			<!-- lien externe vers  "http://www.imdb.com/title/tt0068935/" libellé par "La Fureur du dragon".  -->
-			, et en 1974, McQueen l'encourage à prendre des cours d'art dramatique au MGM Studio, sous la férule de
-			Jonathan Harris. Il enchaîne alors les succès avec des séries de films : Invasion U.S.A., Portés disparus ou encore Delta Force. Après trente ans de mariage, Norris et Holechek divorcent. En 1990, Norris crée l'association Kick Drugs Out of America,
-			renommée depuis Kick Start. Mais à la fin des années 1980, Norris ne remplit plus autant les salles, et son producteur principal Cannon Group, à l'origine de ses films, est racheté par la MGM après sa banqueroute. Il se tourne alors vers la télévision
-			en se lançant en 1993 dans la série Walker, Texas Ranger. Cette série est un succès : elle compte neuf saisons et continue d'être diffusée sur de très nombreuses chaînes à travers le monde.
-			<!--fin paragraphe -->
-
-<!--sous section -->
-		Ces vingt dernières années
+			Playstachouffle
+			
+			Pécéairdaigle
+			
+			Xboxard
+			
+			Le directeur a également indiqué qu'une classe Segpa est présente (ne possédant malheureusement pas de logo).
+			
+		<!--sous section -->
+		Evénements majeurs<
 		<!--début paragraphe -->
-		En 1994, aux Survivor Series (pay-per-view de la WWE), il arbitre un Special Guest Referee Casket Match entre The Undertaker et Yokozuna. En 1997, il obtient un 8e dan (degré) en Taekwondo, qui en comporte 10. 
+		L'école a connu deux grands événements majeurs. Tout d'abord en 2018, <!--l'image de Tuseki doit être positionnée ici -->  l'école fut infiltrée par le sorcier Georges Tuséki dans le but de se venger d'Henry PotDeBeurre en l'éliminant. Son plan a été déjoué par Henry et une autre élève nommée Texas
+		Granger, ce qui a valu à la maison Nintendor de remporter la coupe des maisons, avec plus de 10 milliards de points. Certaines voix se sont élevées pour contester ce résultat, en soulignant notamment que çe serait plutôt grâce à la maison Xboxard que Tuséki aurait été arrêté, après une longue enquête, alors que PotDeBeurre faisait fausse route depuis le début en accussant le professeur Rogue-like.
+		
 		<!-- mettre en emphase cette phrase -->
-		Cette distinction le hisse au rang de Grand
-			Maître. Il est un des premiers occidentaux à qui elle a été attribuée. 
-
-
-			Il se remarie, en 1998, avec l'ancien mannequin Gena O'Kelley qui lui a donné des jumeaux en 2002 : Dakota Alan Norris, un garçon, et Danilee Kelly Norris, une fille.
+		Le directeur Humblebundledore s'est justifié en expliquant que de toute façon, les autres maisons ne sont pas importantes.
+				
+		Enfin, en 2020, le sorcier Georges Tuséki refit surface et vola la DeLorean du directeur dans le but de remonter dans le temps et dérober une des gemmes de pouvoir. Cette affaire est relatée dans <!-- lien externe vers "https://www.youtube.com/watch?v=qQtwAU6_8c4" libellé par "ce documentaire".  -->.
 		<!--fin paragraphe -->
 
+		<!--section -->
+		Les autres écoles de sorcellerie
+			<!--liste  -->
+			<!-- lien externe vers https://harrypotter.fandom.com/fr/wiki/Coll%C3%A8ge_Poudlard,_%C3%A9cole_de_sorcellerie libellé par "Poudlard".  -->
+			<!-- lien externe vers https://harrypotter.fandom.com/fr/wiki/Beauxb%C3%A2tons libellé par "Beauxbâtons"  -->
+			<!-- lien externe vers https://harrypotter.fandom.com/fr/wiki/Durmstrang libellé par "Durmstrang"  -->
 
-<!--section -->
-		Les sites amis 
-		<!--liste  -->
+		<!--section -->
+		Top 10 des sorciers célèbres ayant fréquenté l'école
+			
+			<!--liste numérotée -->
+			Henry PotDeBeurre
+			
+			Texas Granger
+			
+			Albus Humblebundledore, directeur de l'école
+			
+			Georges Tuséki, anciennement professeur de défense contre les forces du mal
+			
+			M. Rogue-like, professeur de potions
+			
+			Gérard Choixpeau, conseiller d'orientation
+			
+			Le professeur de SVT, qui ne croit pas en la magie
+			
+			Choux-Rave, professeur de botanique
+			
+			Lord Val-de-Marne
+			
+			Certaines personnes affirment avoir vu un certain Hagrid traîner dans le château, demandant des pièces aux élèves.
 
-			<!-- lien externe  libellé par "chucknorrisfacts".  -->
-		 	http://www.chucknorrisfacts.fr
-		 	<!-- lien externe  libellé par "mulletjunky"  -->
-		 	http://www.mulletjunky.com/picfix3.htm
-		 	<!-- lien externe  libellé par "stevenseagal.com"  -->
-		 	http://stevenseagal.com
-		
+		<!-- lien interne qui permet de revenir par clic au début de la page avec des ancres et avec libellé "Retour au début" -->
 
-<!--section -->
-		Le Top 10 des derniers facts proposés 
-		
-		<!--liste numérotée -->
-			Le calendrier de Chuck Norris passe du 31 mars au 2 avril. Personne ne fait de blague à Chuck. 
-			Quand Chuck Norris fait une prise de sang, il refuse la seringue et demande un fusil à pompe et une bassine. 
-			Les extra-terrestres existent : ils attendent juste que Chuck Norris meure avant de passer à l´attaque.
-			Chuck Norris peut applaudir d´une seule main. 
-			Chuck Norris ne dort pas. Il attend. 
-			La semence de Chuck Norris ne contient qu´un seul spermatozoïde : celui qui a tué tous les autres. 
-			Les amnésiques se souviennent quand même de Chuck Norris. 
-			Certaines personnes portent un pyjama Superman. Superman porte un pyjama Chuck Norris.
-			Chuck Norris donne fréquemment du sang à la Croix-Rouge. Mais jamais le sien.
-			Chuck Norris et Superman ont fait un bras de fer, le perdant devait mettre son slip par dessus son pantalon.
+	<!-- fermer la balise body ici -->
 	
-
-
-<!-- lien interne qui permet de revenir par clic au début de la page avec des ancres et avec libellé "Retour au début" -->
- Retour au début
-		
-
-<!-- fermer la balise body et html ici -->
-
-
+<!-- fermer la balise html ici -->
