@@ -33,15 +33,13 @@ Cette année, le thème du site portera sur la très renommée **école de sorce
 On me dit à l'oreillette que je me suis trompé d'école...
 Ahem je disais donc, le thème du site portera sur **la plus mauvaise école école de sorcellerie** de toute la bretagne, j'ai nommé l'école [**Georges Pompidou**](https://joueur-du-grenier.fandom.com/fr/wiki/Lyc%C3%A9e_George_Pompidou).
 
-Pour cela, vous allez donc réaliser un site dont le rendu correspond au fichier
-[target.png]({{site.baseurl}}/assets/target.png), en partant du fichier
-[index.txt]({{site.baseurl}}/assets/index.txt), qui contient le contenu quasiment
-"brut" du site à réaliser.
+Pour cela, vous allez donc réaliser un site dont le rendu correspond à [ce visuel]({{site.baseurl}}/assets/target_tp2.png), en partant du fichier
+[index.txt]({{site.baseurl}}/assets/index.txt), qui contient le contenu quasiment "brut" du site à réaliser.
 
 Nous allons tout d'abord nous consacrer à préciser la structure (le HTML donc)
-que l'on peut ajouter à notre contenu brut, ce qui nous permettra de produire [la page suivante ]({{site.baseurl}}/assets/target_TP1.png). Nous verrons ensuite dans la
-[deuxième TP](tp2_css.html) comment commencer à s'approcher du rendu désiré
-[target.png]({{site.baseurl}}/assets/target.png) en réalisant un fichier CSS.
+que l'on peut ajouter à notre contenu brut, ce qui nous permettra de produire [la page suivante ]({{site.baseurl}}/assets/target_TP1.png). Nous verrons ensuite dans le
+[deuxième TP](tp2_css.html) comment obtenir le 
+[rendu désiré]({{site.baseurl}}/assets/target_tp2.png) en réalisant un fichier CSS. Enfin, lors des prochains TP, vous viendrez ajouter de plus en plus de contenu afin d'obtenir une site plus complet.
 
 ### Espace de travail
 
