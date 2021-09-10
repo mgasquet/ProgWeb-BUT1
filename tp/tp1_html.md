@@ -37,7 +37,7 @@ Pour cela, vous allez donc réaliser un site dont le rendu correspond à [ce vis
 [index.txt]({{site.baseurl}}/assets/index.txt), qui contient le contenu quasiment "brut" du site à réaliser.
 
 Nous allons tout d'abord nous consacrer à préciser la structure (le HTML donc)
-que l'on peut ajouter à notre contenu brut, ce qui nous permettra de produire [la page suivante ]({{site.baseurl}}/assets/target_TP1.png). Nous verrons ensuite dans le
+que l'on peut ajouter à notre contenu brut, ce qui nous permettra de produire [la page suivante ]({{site.baseurl}}/assets/target_tp1.png). Nous verrons ensuite dans le
 deuxième TP comment obtenir le [rendu désiré]({{site.baseurl}}/assets/target_tp2.png) en réalisant un fichier CSS. Enfin, lors des prochains TP, vous viendrez ajouter de plus en plus de contenu afin d'obtenir une site plus complet.
 
 ### Espace de travail
@@ -444,10 +444,10 @@ répertoire `images` dans votre dossier **TP1**.
 3. Faites de même avec l'image [Humblebundledore.jpg]({{site.baseurl}}/assets/Humblebundledore.jpg)
    à positionner en lieu et place du commentaire `<!--l'image de Humblebundledore doit être positionnée ici -->`.
    
-4. Faites de même avec l'image [Tuseki.png]({{site.baseurl}}/assets/Tuseki.png)
+4. Faites de même avec l'image [Tuseki.PNG]({{site.baseurl}}/assets/Tuseki.PNG)
    à positionner en lieu et place du commentaire `<!--l'image de Tuseki doit être positionnée ici -->`.
    
-5. Faites de même avec les images [Nintendor.png]({{site.baseurl}}/assets/Nintendor.png), [Playstachouffle.png]({{site.baseurl}}/assets/Playstachouffle.png), [Peceairdaigle.png]({{site.baseurl}}/assets/Peceairdaigle.png), [Xboxard.png]({{site.baseurl}}/assets/Xboxard.png)
+5. Faites de même avec les images [Nintendor.PNG]({{site.baseurl}}/assets/Nintendor.PNG), [Playstachouffle.PNG]({{site.baseurl}}/assets/Playstachouffle.PNG), [Peceairdaigle.PNG]({{site.baseurl}}/assets/Peceairdaigle.PNG), [Xboxard.PNG]({{site.baseurl}}/assets/Xboxard.PNG)
    à positionner en lieu et place du commentaire `<!--Les logos de chaque maison doivent être positionnés ici (4 balises)-->`.
 
 6. Devinez quoi ? Il faut **retester** la conformité de votre document.
