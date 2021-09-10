@@ -26,7 +26,7 @@ travailler dans les métiers du Web. En maîtriser tous les aspects est un méti
 (celui d'intégrateur Web, qui traduit en HTML et CSS le travail du
 Web-designer).
 
-Nous avons produit à la dernière séance une page qui devrait ressembler à [ceci]({{site.baseurl}}/assets/target_TP1.PNG). Nous allons aujourd'hui réaliser un fichier CSS pour la transformer en [ceci]({{site.baseurl}}/assets/target_TP2.PNG).
+Nous avons produit à la dernière séance une page qui devrait ressembler à [ceci]({{site.baseurl}}/assets/target_tp1.png). Nous allons aujourd'hui réaliser un fichier CSS pour la transformer en [ceci]({{site.baseurl}}/assets/target_tp2.png).
 
 Pour ce deuxième TP, allez dans le dossier `Dev_Web` puis **copiez** et **collez** le contenu de votre dossier `TP1` dans un nouveau dossier nommé `TP2`.
 C'est dans ce dossier que vous travaillerez durant ce TP. 
