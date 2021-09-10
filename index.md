@@ -10,5 +10,6 @@ Cours à l'IUT de Nevers - 1ère année
 
 ## TPs
 
-1. [TP1 -- Introduction à HTML](tp/tp1_html.html)
+1. Vendredi 10 septembre 2021 - [TP1 -- Introduction à HTML](tp/tp1_html.html)
+2. Jeudi 16 septembre 2021 - TP2 -- Introduction à CSS
 

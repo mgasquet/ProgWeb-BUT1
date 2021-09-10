@@ -31,26 +31,25 @@ Lors des différents TPs du module de développement web, vous allez construire 
 
 Cette année, le thème du site portera sur la très renommée **école de sorcellerie** Poud...Quoi ? 
 On me dit à l'oreillette que je me suis trompé d'école...
-Ahem je disais donc, le thème du site portera sur **la plus mauvaise école école de sorcellerie** de toute la bretagne, j'ai nommé l'école [**Georges Pompidou**](https://joueur-du-grenier.fandom.com/fr/wiki/Lyc%C3%A9e_George_Pompidou).
+Ahem je disais donc, le thème du site portera sur **la plus mauvaise école de sorcellerie** de toute la bretagne, j'ai nommé l'école [**Georges Pompidou**](https://joueur-du-grenier.fandom.com/fr/wiki/Lyc%C3%A9e_George_Pompidou).
 
 Pour cela, vous allez donc réaliser un site dont le rendu correspond à [ce visuel]({{site.baseurl}}/assets/target_tp2.png), en partant du fichier
 [index.txt]({{site.baseurl}}/assets/index.txt), qui contient le contenu quasiment "brut" du site à réaliser.
 
 Nous allons tout d'abord nous consacrer à préciser la structure (le HTML donc)
 que l'on peut ajouter à notre contenu brut, ce qui nous permettra de produire [la page suivante ]({{site.baseurl}}/assets/target_TP1.png). Nous verrons ensuite dans le
-[deuxième TP](tp2_css.html) comment obtenir le 
-[rendu désiré]({{site.baseurl}}/assets/target_tp2.png) en réalisant un fichier CSS. Enfin, lors des prochains TP, vous viendrez ajouter de plus en plus de contenu afin d'obtenir une site plus complet.
+deuxième TP comment obtenir le [rendu désiré]({{site.baseurl}}/assets/target_tp2.png) en réalisant un fichier CSS. Enfin, lors des prochains TP, vous viendrez ajouter de plus en plus de contenu afin d'obtenir une site plus complet.
 
 ### Espace de travail
 
-Pour commencez, créez vous un dossier `Dev_Web` dans lequel vous stockerez vos fichiers pour tous les TP à venir.
+Pour commencer, créez vous un dossier `Dev_Web` dans lequel vous stockerez vos fichiers pour tous les TP à venir.
 
-Pour ce TP, créez donc un sous-dossier `TP1` dans `Dev_Web` qui servira à stocker les ficheirs relatifs à ce TP. Je vous conseille de faire cela pour ne pas écraser vos précédent travaux, d'un TP à l'autre.
+Pour ce TP, créez donc un sous-dossier `TP1` dans `Dev_Web` qui servira à stocker les fichiers relatifs à ce TP. Je vous conseille de faire cela pour ne pas écraser vos précédents travaux, d'un TP à l'autre.
 
 Pour **éditer le code** (HTML puis plus tard, CSS, et peut-être d'autres langages) vous aurez besoin d'un éditeur qui prend 
 en charge la **coloration syntaxique** du code.
 
-Je vous recommande `Notepad++` que vous trouverez dans la liste des programmes de l'ordinateur. Vous pouvez aussi le télécharger sur vos machines personnelles.
+Pour l'instant, je vous recommande `Notepad++` que vous trouverez dans la liste des programmes de l'ordinateur.
 
 ## Transformation d'un document texte en un document HTML
 
@@ -514,7 +513,6 @@ l'on pointe vers le document courant par défaut.
 <a href="#un_identifiant">Exemple de lien interne</a>
 ```
 
-
 <div class="exercise">
 
 1. Remplacez le commentaire `<!-- lien interne qui permet de revenir...-->` de `index.html` par une
@@ -523,6 +521,28 @@ l'on pointe vers le document courant par défaut.
 2. Testez vos liens en cliquant dessus. Ils doivent vous emmener sur la balise
    dont l'identifiant correspond.
 3. **Testez** la conformité ...
+
+</div>
+
+<div class="exercise">
+
+Le directeur Humblebundledore est plutôt du genre ego-centrique...Il vous demande que chaque mention de son nom renvoie vers sa photo.
+
+1. Ajoutez un identifiant (attribut `id`) à la balise `<img>` qui permet d'afficher la photo du directeur.
+
+2. Transformez chaque mention du nom **Ablus Humblebundledore** (avec ou sans son prénom) en en lien interne renvoyant vers sa photo.
+
+3. N'oubliez pas de tester votre document !
+
+</div>
+
+<div class="exercise">
+
+1. Ajoutez un identifiant (attribut `id`) à chaque élément de la liste des maisons (pour les 4 maisons principales).
+
+2. Faites en sorte que chaque image représentant le logo de chaque maison soit un lien interne renvoyant vers l'élément de la liste concerné. (Un clic sur le logo Nintendor renvoie vers l'élément "Nintendor" de la liste, etc...)
+
+3. Devinez la dernière étape (cela a un rapport avec un test de conformité...)
 
 </div>
 
@@ -573,42 +593,12 @@ développement. Quels sont les deux **nouvelles** balises utilisées ?
 
 </div>
 
-## Bonus (liens internes)
-
-Les exercices de cette section bonus ne sont pas essentiels pour la suite, mais vous pouvez les faire pour confirmer votre maîtrise des liens internes.
-
-### Le melon d'Humblebundledore
-
-Le directeur Humblebundledore est plutôt du genre ego-centrique. Il vous demande que chaque mention de son nom renvoie vers sa photo.
-
-<div class="exercise">
-
-1. Ajoutez un identifiant à la balise `<img>` qui permet d'afficher la photo du directeur.
-
-2. Transformez chaque mention du nom **Ablus Humblebundledore** (avec ou sans son prénom) en en lien interne renvoyant vers sa photo.
-
-3. N'oubliez pas de tester votre document !
-
-</div>
-
-### Les logos-lien des maisons
-
-<div class="exercise">
-
-1. Ajoutez un identifiant à chaque élément de la liste des maisons (pour les 4 maisons principales).
-
-2. Faites en sorte que chaque image représentant le logo de chaque maison soit un lien interne renvoyant vers l'élément de la liste concerné. (Un clic sur le logo Nintendor renvoie vers l'élément "Nintendor" de la liste, etc...)
-
-3. Un dernier test pour la route ?
-
-</div>
-
 ## Fini !
 
 Nous en avons fini en ce qui concerne le contenu et la structure de notre site.
 Nous savons ajouter de la structure à une page HTML avec des balises spécifiques.
 
-Dans le [TP2](tp2_css.html), nous verrons comment améliorer l'aspect
+Dans le [TP2], nous verrons comment améliorer l'aspect
 du site.
 
 <!-- Pour afficher les extensions de fichier Dans l'explorateur : alt pour
