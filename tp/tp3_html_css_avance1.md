@@ -286,6 +286,8 @@ plus en exergue. (Il faut supprimer les autres cellules et n'en garder qu'une se
 2. Mettez le "Oui" d'Humblebundledore en avant avec une balise `<strong>` pour bien montrer
 qui est le directeur.
 
+3. (Optionnel) Vous pouvez faire de même avec le "Non" du professeur de SVT.
+
 Plus tard, nous verrons comment centrer le texte des cellules.
 
 <!-- Faire en sorte que les noms des acteurs soient maintenant des liens vers leurs pages Wikipedia. -->
