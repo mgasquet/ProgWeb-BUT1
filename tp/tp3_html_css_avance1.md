@@ -157,9 +157,9 @@ Expliquons le rôle de quelques balises de structure:
 2. Dans la partie `<main>` de la page, ajoutez
 
    1. une section `Inscription` (avec le même style que pour la page `index.html`)  
-   2. l'image [join_us.png]({{site.baseurl}}/assets/join_us.png) qui est...encore une image du directeur.
+   2. l'image [join_us.PNG]({{site.baseurl}}/assets/join_us.PNG) qui est...encore une image du directeur.
    
-3. En utilisant le CSS, donnez une largeur de `300px` à l'image `join_us.png`.
+3. En utilisant le CSS, donnez une largeur de `300px` à l'image `join_us.PNG`.
 
 4. Validez votre page HTML.
 
@@ -424,12 +424,12 @@ second paragraphe.
 
    Vous devez alors avoir le rendu suivant :
    
-   <img src="{{site.baseurl}}/assets/intro_noclear.png" alt="Intro no clear"
+   <img src="{{site.baseurl}}/assets/intro_noclear.PNG" alt="Intro no clear"
    style="display:block;margin:0 auto;">
    
 2. Nous souhaitons plutôt ce rendu :
    
-   <img src="{{site.baseurl}}/assets/intro_clear.png" alt="Intro lear"
+   <img src="{{site.baseurl}}/assets/intro_clear.PNG" alt="Intro clear"
    style="display:block;margin:0 auto;">
    Il faut d'abord régler le problème du texte collé à l'image, pour ça on peut simplement ajouter une marge de 5 pixels à droite de l'image.
    Pour interdire à notre paragraphe d'avoir un élément flottant sur son côté gauche,
@@ -481,7 +481,7 @@ Référence : [Mozilla Developer Network (MDN)](https://developer.mozilla.org/f
 et
 [twitter.png ![Twitter]({{site.baseurl}}/assets/twitter.png)]({{site.baseurl}}/assets/twitter.png)
 toujours positionnées en bas à droite de la fenêtre d'affichage l'une au-dessus
-de l'autre comme [ceci]({{site.baseurl}}/assets/demo_reseaux.png). Pour cela, en plus du CSS, il peut
+de l'autre comme [ceci]({{site.baseurl}}/assets/demo_reseaux.PNG). Pour cela, en plus du CSS, il peut
 être utile d'utiliser l'élément `div` pour structurer la zone contenant ces icônes.
 
 </div>

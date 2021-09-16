@@ -6,6 +6,9 @@ layout: tutorial
 
 Nous allons continuer de modifier notre site pour obtenir le [rendu suivant]({{site.baseurl}}/assets/target_tp4.png), nous nous concentrerons aussi sur la contrusction d'un menu déroulant comme [ceci]({{site.baseurl}}/assets/menu_deroulant_tp4.gif).
 
+Pour ce quatrième TP, allez dans le dossier `Dev_Web` puis **copiez** et **collez** le contenu de votre dossier `TP3` dans un nouveau dossier nommé `TP4`.
+C'est dans ce dossier que vous travaillerez durant ce TP. 
+
 ## Ordre d'application des sélecteurs CSS
 
 Comme vous vous en souvenez, les sélecteurs servent à sélectionner un ensemble
