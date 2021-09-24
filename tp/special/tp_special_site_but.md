@@ -58,7 +58,7 @@ L'usage de l'attribut ou de la balise HTML `style` (au lieu du fichier) est inte
 
 	* Règlement intérieur
 	* Site de L'IUT de Dijon-Auxeres
-	* Un fichier top secret que personne ne peut dévérouiller...?
+	* Un fichier top secret que personne ne peut déverrouiller...?
 
 10. L'item **Règlement intérieur** est un lien renvoyant vers [ce fichier]({{site.baseurl}}/assets/special/tp_spe_1/reglement.pdf), en interne (que vous aurez placé au préalable dans le sous-dossier `fichiers`).
 
