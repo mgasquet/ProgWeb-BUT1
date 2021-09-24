@@ -367,7 +367,7 @@ précedemment pour inclure le fichier **CSS**.
 document HTML (dans la partie `head`) :
 
    ```html
-	<link rel="icon" type="image/extension" href="images/nom_image"
+	<link rel="icon" type="image/extension" href="images/nom_image.extension">
    ```
 
    Rempalcez **extension** par le type d'image (jpg, png...) et **nom_image** par le nom de votre image, 
