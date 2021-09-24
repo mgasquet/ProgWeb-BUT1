@@ -57,12 +57,12 @@ L'usage de l'attribut ou de la balise HTML `style` (au lieu du fichier) est inte
 9. La liste (non numérotée) des ressources externes est :
 
 	* Règlement intérieur
-	* Site de L'IUT de Dijon-Auxeres
+	* Site de L'IUT de Dijon-Auxere
 	* Un fichier top secret que personne ne peut déverrouiller...?
 
 10. L'item **Règlement intérieur** est un lien renvoyant vers [ce fichier]({{site.baseurl}}/assets/special/tp_spe_1/reglement.pdf), en interne (que vous aurez placé au préalable dans le sous-dossier `fichiers`).
 
-11. L'item **Site de L'IUT de Dijon-Auxeres** est un lien renvoyant vers [https://iutdijon.u-bourgogne.fr/www/](https://iutdijon.u-bourgogne.fr/www/).
+11. L'item **Site de L'IUT de Dijon-Auxere** est un lien renvoyant vers [https://iutdijon.u-bourgogne.fr/www/](https://iutdijon.u-bourgogne.fr/www/).
 
 12. L'item **Un fichier top secret que personne ne peut déverrouiller...?** est un lien renvoyant vers [ce fichier]({{site.baseurl}}/assets/special/tp_spe_1/secret.zip), en interne.
 
