@@ -12,7 +12,7 @@ Comme l'objectif de ce TP est avant tout d'évaluer vos compétences, il y aura 
 
 ## Rendu final 
 
-Le rendu final sera le dossier complet de votre site, contenant :
+Le rendu final sera une archive (zip ou 7z) du dossier complet de votre site, contenant :
 
 1. Une page `index.html`.
 2. Un dossier `css` contenant un fichier `styles.css`.
