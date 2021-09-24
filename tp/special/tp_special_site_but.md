@@ -118,7 +118,7 @@ Pour cette partie, il vous faudra créer une feuille de style et la placer dans 
 	* Le **u** de "Ressources" dans "Ressources externes"
 	* Le dernier **e** de "semestre" dans "Premier semestre"
 	* Le premier **s** de "semestre" dans "second semestre"
-	* Le **a** de "Restaurant" dans "Restaurant universitaire"
+	* Le premier **a** de "Restaurant" dans "Restaurant universitaire"
 	* Le **f** de "fichier" dans "fichier top secret"
 	* Le premier **r** de "déverrouiller" dans "que personne ne peut déverrouiller"
 	
