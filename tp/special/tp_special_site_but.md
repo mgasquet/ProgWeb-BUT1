@@ -12,7 +12,7 @@ Comme l'objectif de ce TP est avant tout d'évaluer vos compétences, il y aura 
 
 ## Rendu final 
 
-Le rendu final sera le dossier complet de votre site, contenant :
+Le rendu final sera une archive (zip ou 7z) du dossier complet de votre site, contenant :
 
 1. Une page `index.html`.
 2. Un dossier `css` contenant un fichier `styles.css`.
@@ -57,12 +57,12 @@ L'usage de l'attribut ou de la balise HTML `style` (au lieu du fichier) est inte
 9. La liste (non numérotée) des ressources externes est :
 
 	* Règlement intérieur
-	* Site de L'IUT de Dijon-Auxeres
-	* Un fichier top secret que personne ne peut dévérouiller...?
+	* Site de L'IUT de Dijon-Auxere
+	* Un fichier top secret que personne ne peut déverrouiller...?
 
 10. L'item **Règlement intérieur** est un lien renvoyant vers [ce fichier]({{site.baseurl}}/assets/special/tp_spe_1/reglement.pdf), en interne (que vous aurez placé au préalable dans le sous-dossier `fichiers`).
 
-11. L'item **Site de L'IUT de Dijon-Auxeres** est un lien renvoyant vers [https://iutdijon.u-bourgogne.fr/www/](https://iutdijon.u-bourgogne.fr/www/).
+11. L'item **Site de L'IUT de Dijon-Auxere** est un lien renvoyant vers [https://iutdijon.u-bourgogne.fr/www/](https://iutdijon.u-bourgogne.fr/www/).
 
 12. L'item **Un fichier top secret que personne ne peut déverrouiller...?** est un lien renvoyant vers [ce fichier]({{site.baseurl}}/assets/special/tp_spe_1/secret.zip), en interne.
 
@@ -118,7 +118,7 @@ Pour cette partie, il vous faudra créer une feuille de style et la placer dans 
 	* Le **u** de "Ressources" dans "Ressources externes"
 	* Le dernier **e** de "semestre" dans "Premier semestre"
 	* Le premier **s** de "semestre" dans "second semestre"
-	* Le **a** de "Restaurant" dans "Restaurant universitaire"
+	* Le premier **a** de "Restaurant" dans "Restaurant universitaire"
 	* Le **f** de "fichier" dans "fichier top secret"
 	* Le premier **r** de "déverrouiller" dans "que personne ne peut déverrouiller"
 	
