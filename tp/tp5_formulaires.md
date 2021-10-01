@@ -235,7 +235,7 @@ Il est temps pour l'image d'Humblebundledore de faire son retour !
 
 <div class="exercise" id="exalbus">
 
-1. Décommentez l'image d'Albus Humblebundledore et placez là au tout début du `fieldset` "Informations personnelles".
+1. Décommentez l'image d'Albus Humblebundledore et placez là après l'élément `legend` du `fieldset` "Informations personnelles".
 
 2. A l'aide de **CSS**, faites en sorte que l'image se place **à droite** du `fieldset`, comme nous l'avons vu dans le [TP3]({{site.baseurl}}/tp/tp3_html_css_avance1.html)
 
