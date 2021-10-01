@@ -844,12 +844,18 @@ ne pas faire un effet de flicker/tremblement au survol du menu)
 
 </div>
 
-## Mise à jour de la page d'inscirption
+## Mise à jour de la page d'inscription
 
 <div class="exercise">
 
-Le menu de la page `index.html` a évolué, mais pas celui de `inscription.html` !
+1. Le menu de la page `index.html` a évolué, mais pas celui de `inscription.html` !
 Mettez à jour la page d'inscription avec le nouveau menu, en faisant un copié / collé.
+
+2. Nous aimerions avoir un rendu de la page d'inscription similaire à celui de la page d'accueil. 
+Placez le titre de section "Inscription " et l'image d' Humblebundledore dans un element `article` 
+puis copiez-collez le `aside` de `index.html`
+
+A la fin de cet exercice, vous devriez obtenir [ce résultat]({{site.baseurl}}/assets/target_tp4_inscription.png).
 
 </div>
 

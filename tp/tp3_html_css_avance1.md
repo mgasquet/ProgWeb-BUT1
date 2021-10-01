@@ -159,7 +159,7 @@ Expliquons le rôle de quelques balises de structure:
    1. une section `Inscription` (avec le même style que pour la page `index.html`)  
    2. l'image [join_us.PNG]({{site.baseurl}}/assets/join_us.PNG) qui est...encore une image du directeur.
    
-3. En utilisant le CSS, donnez une largeur de `300px` à l'image `join_us.PNG`.
+3. En utilisant le CSS, donnez une largeur de `200px` à l'image `join_us.PNG`.
 
 4. Validez votre page HTML.
 
