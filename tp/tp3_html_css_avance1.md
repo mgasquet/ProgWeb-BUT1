@@ -419,7 +419,7 @@ Les valeurs de la propriété float sont  `left`, `right`, `none` et `inherit`.
 
  1. Placez l'image d'Albus Humblebundledore à gauche du texte, 
  1. Placez l'image de Georges Tuseki à droite du texte.
- 1. Placez les quatres logos des maisons dans un élément `div` et placez-le à droite du texte.
+ 1. Placez les quatres logos des maisons dans un élément `div` (auquel vous donnerez un identifiant) et placez-le à droite du texte (seulement ce `div`, pas tous les `div` de la page !).
 
 </div>
 
