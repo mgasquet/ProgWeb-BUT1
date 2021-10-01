@@ -162,6 +162,8 @@ Expliquons le rôle de quelques balises de structure:
 3. En utilisant le CSS, donnez une largeur de `200px` à l'image `join_us.PNG`.
 
 4. Validez votre page HTML.
+  
+5. Laissez cette page de côté pour le moment, nous y reviendrons dans un prochain TP.
 
 </div>
 
@@ -169,7 +171,9 @@ Expliquons le rôle de quelques balises de structure:
 marquant. C'est avant tout un travail de structuration logique qui permet au
 navigateur, ou à un moteur de recherche, de mieux comprendre votre page web.
 Nous verrons comment changer la mise en page globale dans les TPs suivants. Pour
-la suite du TP, nous allons ajouter du style aux éléments de la page courante.
+la suite du TP, nous allons ajouter du style aux éléments de la page d'accueil.
+  
+**Pensez bien à revenir sur la page d'accueil (index) pour la suite du travail. Nous poursuivrons le travail sur la page d'inscription dans un prcohain TP**
 
 ## Tableaux
 
