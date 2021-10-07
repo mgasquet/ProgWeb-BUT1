@@ -156,12 +156,14 @@ Expliquons le rôle de quelques balises de structure:
 
 2. Dans la partie `<main>` de la page, ajoutez
 
-   1. une section `Inscription` (avec le même style que pour la page `index.html`)  
+   1. une section `Inscription` (un titre `h2` avec le même style que pour la page `index.html`)  
    2. l'image [join_us.PNG]({{site.baseurl}}/assets/join_us.PNG) qui est...encore une image du directeur.
    
 3. En utilisant le CSS, donnez une largeur de `200px` à l'image `join_us.PNG`.
 
 4. Validez votre page HTML.
+  
+5. Laissez cette page de côté pour le moment, nous y reviendrons dans un prochain TP.
 
 </div>
 
@@ -169,7 +171,9 @@ Expliquons le rôle de quelques balises de structure:
 marquant. C'est avant tout un travail de structuration logique qui permet au
 navigateur, ou à un moteur de recherche, de mieux comprendre votre page web.
 Nous verrons comment changer la mise en page globale dans les TPs suivants. Pour
-la suite du TP, nous allons ajouter du style aux éléments de la page courante.
+la suite du TP, nous allons ajouter du style aux éléments de la page d'accueil.
+  
+**Pensez bien à revenir sur la page d'accueil (index) pour la suite du travail. Nous poursuivrons le travail sur la page d'inscription dans un prcohain TP**
 
 ## Tableaux
 
@@ -415,7 +419,7 @@ Les valeurs de la propriété float sont  `left`, `right`, `none` et `inherit`.
 
  1. Placez l'image d'Albus Humblebundledore à gauche du texte, 
  1. Placez l'image de Georges Tuseki à droite du texte.
- 1. Placez les quatres logos des maisons dans un élément `div` et placez-le à droite du texte.
+ 1. Placez les quatres logos des maisons dans un élément `div` (auquel vous donnerez un identifiant) et placez-le à droite du texte (seulement ce `div`, pas tous les `div` de la page !).
 
 </div>
 

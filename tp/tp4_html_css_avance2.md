@@ -790,9 +790,6 @@ Il est temps d'avoir un layout (aménagement de l'espace) pour notre site.
 
 <div class="exercise" > 
  1. Donnez au body la `width` de `900px`.
- 1. Déplacez dans le HTML la section contenant la `<table>` dans `<aside>` si
-    cela n'est pas déjà fait.
-    <!-- Vraiment ??? -->
 
  1. Utilisez la valeur de display `flex` sur la balise `<main>` pour que ses 
     enfants `<article>` et `<aside>` s'affichent comme deux colonnes côte à 
