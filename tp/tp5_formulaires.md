@@ -81,7 +81,7 @@ Nous allons voir comment est envoyée la valeur d'un `<input>` lorsque l'on soum
    ```
 
   1. **Sous Chrome relativement récent uniquement** : Affichez la page et ouvrez la console (F12) pour aller sur l'onglet
-  'Réseau', cocher la case "Preserve log", donnez la valeur `dupont` au champ texte, puis cliquez sur le bouton
+  'Réseau' (ou 'Network'), cocher la case "Preserve log", donnez la valeur `dupont` au champ texte, puis cliquez sur le bouton
   "Envoyer" du formulaire.  Vous devez voir une requête contenant
   `sendToMySecondYearOfBUT` dans la console. Cliquez sur cette ligne et cherchez
   la valeur `dupont` dans les détails de la transaction.
@@ -209,7 +209,7 @@ s'exprimer.
  1. Ajoutez un champ à votre formulaire libellé "Lettre de motivation" associé à un `<textarea>` sur lequel l'utilisateur peut s'épancher.
 </div>
 
- 2. A l'aide de **CSS**, donnez à cette zone de texte une largeur de `400px`, une hauteur de `120px` et changez la propriété `resize` à `none` 
+ 2. A l'aide de **CSS**, donnez à cette zone de texte une largeur de `90%`, une hauteur de `120px` et changez la propriété `resize` à `none` 
  (pour que l'utilisateur ne puisse pas modifier la taille de la zone).
 
 ## La balise `<fieldset>`
