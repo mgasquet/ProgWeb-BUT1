@@ -279,7 +279,7 @@ temps à l'utilisateur.
 <div class="exercise" >
 
  1. Ajoutez un placeholder de valeur “yourmail@domain.com” au champ Email.
- 1. Ajoutez un attribut `placeholder` dans le `<textarea>` avec le texte suivant "Des compliments envers le magnfiqiue directeur Albus Humblebundledore est un plus dans votre candidature".
+ 1. Ajoutez un attribut `placeholder` dans le `<textarea>` avec le texte suivant "Des compliments envers le magnifique directeur Albus Humblebundledore est un plus dans votre candidature".
  1. Faite en sorte que le pays sélectionné par défaut dans "Pays d'origine" soit la France (et cela indépendamment de l'ordre des balises `<option>` dans le HTML).
 </div>
 
