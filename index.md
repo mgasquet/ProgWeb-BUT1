@@ -16,5 +16,5 @@ Cours à l'IUT de Nevers - 1ère année
 4. Vendredi 1er octobre 2021 - Suite [TP3 -- HTML / CSS avancé 1/2](tp/tp3_html_css_avance1.html) puis [TP4 -- HTML / CSS avancé 2/2](tp/tp4_html_css_avance2.html)
 5. Jeudi 7 octobre 2021 - Suite [TP4 -- HTML / CSS avancé 2/2](tp/tp4_html_css_avance2.html)
 6. Jeudi 14 octobre 2021 - [TP5 -- Formulaires](tp/tp5_formulaires.html)
-7. Vendredi 22 octobre 2021 - TP6 -- Responsive Design
+7. Vendredi 22 octobre 2021 - [TP6 -- Responsive Design](tp/tp6_responsive.html)
 
