@@ -160,7 +160,7 @@ Ce formulaire sert à rechercher des articles sur le blog, sélectionnez donc la
 
 <div class="exercise">
 
-On osuhaite obtenir [ce comportement]({{site.baseurl}}/assets/special/tp_spe_2/demo_form.gif) pour le formulaire du `<aside>`.
+On souhaite obtenir [ce comportement]({{site.baseurl}}/assets/special/tp_spe_2/demo_form.gif) pour le formulaire du `<aside>`.
 
 1. Au niveau du formulaire **"Recherche d'articles"**, ajoutez une case à cocher libellée **Recherche avancée**. Il faut que cet élément soit un enfant direct de `<form>` (pas dans une sous div, etc...).
 
@@ -171,7 +171,7 @@ On osuhaite obtenir [ce comportement]({{site.baseurl}}/assets/special/tp_spe_2/d
 
 <div class="exercise">
 
-On osuhaite obtenir [ce comportement]({{site.baseurl}}/assets/special/tp_spe_2/demo_connexion.gif) au niveau du lien **Connexion** du `<nav>`.
+On souhaite obtenir [ce comportement]({{site.baseurl}}/assets/special/tp_spe_2/demo_connexion.gif) au niveau du lien **Connexion** du `<nav>`.
 
 1. Dans `<nav>`, remplacez l'élément `<div>` avec l'identifiant `menuDroite` par :
 
